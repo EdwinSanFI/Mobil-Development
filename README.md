@@ -1,2 +1,2 @@
 # Desarrollo-Mobil
-Repositorio con mis proyectos para el desarrollo mobil en iOS y en Android
+Mobile development for iOS and Android
