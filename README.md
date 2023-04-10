@@ -10,6 +10,11 @@ This repository is dedicated to showcasing my Flutter projects, as I embark on m
 
 Although I have currently only completed one project, I am eager to expand my portfolio with more creations in the near future. Stay tuned for exciting updates and don't hesitate to explore the repository!
 
+## Repository Structure :file_folder:
+
+* flutter-platzi/: First Flutter Project. I took the Flutter Platzi Course
+* primer_app/: Second Flutter project.
+
 ## Getting Started :rocket:
 To run any of the projects in this repository, make sure you have the following prerequisites:
 
@@ -31,6 +36,5 @@ I appreciate any feedback and suggestions to improve my projects, as well as con
 
 ## Connect With Me :handshake:
 If you have any questions, want to discuss ideas or just want to connect, feel free to reach out to me on [LinkedIn](linkedin.com/in/edwin-san/), [GitHub](https://github.com/EdwinSanFI), [Twitter](https://twitter.com/home), [Instagram](instagram.com/edwinsanfi/).
-
 
 <p align="center"> Thank you for visiting my Flutter repository, and I hope you enjoy exploring my projects! :smiley: </p>
